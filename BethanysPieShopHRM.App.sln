@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM.App", "BethanysPieShopHRM.App\BethanysPieShopHRM.App.csproj", "{1473E067-41C7-413B-84CD-D5097D503973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1473E067-41C7-413B-84CD-D5097D503973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1473E067-41C7-413B-84CD-D5097D503973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1473E067-41C7-413B-84CD-D5097D503973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1473E067-41C7-413B-84CD-D5097D503973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {385270EB-AF00-4FBC-8990-5FB0C4E2FCA3}
+	EndGlobalSection
+EndGlobal
