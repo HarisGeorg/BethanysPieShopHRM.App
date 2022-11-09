@@ -17,12 +17,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<Folder Include="wwwroot\Uploads\" />
+		<ProjectReference Include="..\BethanysPieShopHRM.App\BethanysPieShopHRM.App.csproj" />
+		<ProjectReference Include="..\BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\BethanysPieShopHRM.App\BethanysPieShopHRM.App.csproj" />
-	  <ProjectReference Include="..\BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj" />
+		<Folder Include="wwwroot\Uploads\" />
 	</ItemGroup>
 
 </Project>

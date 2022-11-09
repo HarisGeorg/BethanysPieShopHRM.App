@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BethanysPieShopHRM.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20221109140421_InitialMigration")]
+    [Migration("20221109145808_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
